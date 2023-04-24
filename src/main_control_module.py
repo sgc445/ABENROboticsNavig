@@ -1,6 +1,6 @@
 # Created by Sunil GC
 # Created Date: 6/1/22
-# Contributor: Sunil GC,  # add contributor
+# Contributor: Sunil GC, Arjun Upadhaya  # add contributor
 import sys
 import argparse
 from robot_navigation import RoboNavigation
